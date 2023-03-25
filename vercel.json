@@ -1,0 +1,7 @@
+{
+  "name": "Moezz",
+  "version": 2,
+  "routes": [
+    {"src": "/(.*)","dest": "https://rtrb-v.s3.eu-central-003.backblazeb2.com/$1"}
+  ]
+}
